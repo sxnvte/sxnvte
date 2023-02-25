@@ -88,6 +88,3 @@ i am just a frontend developer with some more language acknowledge. i also somet
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
