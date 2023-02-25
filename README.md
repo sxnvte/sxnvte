@@ -17,8 +17,6 @@ i am just a frontend developer with some more language acknowledge. i also somet
 
 <br/>  
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on... some private project  
