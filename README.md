@@ -19,7 +19,7 @@ i am just a frontend developer with some more language acknowledge. i also somet
 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on... some private project  
+- 🔭 I’m currently working on [oxygen](https://sxnvte.github.io/oxygen/)  , a private minecraft autoclicking tool for pvp and more 
   
 
 - 🌱 I’m currently learning more of python, c#, javascript  
