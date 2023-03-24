@@ -4,7 +4,7 @@ Hi 👋 My name is sxnvte
 Front-end, C#, Python (little bit)
 ----------------------------------
 
-I am started coding using VB.NET then i started learning HTMl and C#, and now i am learing Python.
+I am started coding using VB.NET then i started learning HTML and C#, and now i am learing Python.
 
 *   🌍  I'm based in Poland
 *   🚀  I'm currently working on [oxygen (paused for now)](http://sxnvte.github.io/oxygen)
