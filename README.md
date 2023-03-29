@@ -7,7 +7,7 @@ Front-end, C#, Python (little bit)
 I am started coding using VB.NET then i started learning HTML and C#, and now i am learing Python.
 
 *   🌍  I'm based in Poland
-*   🚀  I'm currently working on sxPyShell - A Simple lightweight and open source "shell" for Linux written in Python that supports custom commands
+*   🚀  I'm currently working on FSAH - A Simple AUR helper written in Python
 *   🧠  I'm learning Python
 *   ⚡  yes
 
